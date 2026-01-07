@@ -1,6 +1,9 @@
 # GDIM32 In Class Activities
 ## Instructions
 Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
+
+
+
 # Week1
 ## Activity 1
 
@@ -39,16 +42,19 @@ Put each week's activities under new headers like the one shown above. Headers a
     - Actions:
       - hit space button → plant appears
       - counter: seeds remaining and seeds planted
+- UI: 
+    - Displays the amount of seed plants
+    - Display the amount of planted seeds
+    - Use “Debug.Log” to show text.
 
 
-UI: 
-displays the amount of seed plants
-display the amount of planted seeds
-Use “Debug.Log” to show text.
-Add background
 
 
-Translate.
+
+
+
+
+
 
 Hit enter TWICE to create a new line.
 
