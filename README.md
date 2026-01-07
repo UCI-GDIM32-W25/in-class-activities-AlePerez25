@@ -21,7 +21,6 @@ Put each week's activities under new headers like the one shown above. Headers a
 - Q5: Print “x = 10” in the console when the program starts
  - Q6: The “(10)” is the argument assigned to show along with the text parameter “x = ” together that's why we need to use the “+” sign to display “x = 10”
 - Q7: The _playerTransform variable is instantiated but never used.
-- Q8: “Transform” is without capital “T”. Correct code =  “transform.translate”
 - Q8: Transform.Translate should be replaced with _playerTransform.Translate.
 
 Hit enter TWICE to create a new line.
