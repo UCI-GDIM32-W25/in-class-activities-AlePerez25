@@ -26,23 +26,10 @@
 
 ### Activity 3
 
-- Cat:
-    - Attributes:
-      - speed
-      - sprite
-    - Actions:
-      - movement (wasd)
-      - movement/translate
-- Plant:
-    - Attributes:
-      - location: current cat location
-    - Actions:
-      - hit space button → plant appears
-      - counter: seeds remaining and seeds planted
-- UI: 
-    - Displays the amount of seed plants
-    - Display the amount of planted seeds
-    - Use “Debug.Log” to show text.
+- link:
+
+https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/edit?usp=sharing
+
 
 
 
