@@ -1,8 +1,8 @@
 # GDIM32 In Class Activities
 ## Instructions
 Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
-## Week1
-# Activity 1
+# Week1
+## Activity 1
 
 - Make notes.
 - Don’t procrastinate!
@@ -13,7 +13,7 @@ Put each week's activities under new headers like the one shown above. Headers a
 -  Learn how to use the inspector
 -  Create map concepts.
 
-# Activity 2
+## Activity 2
 
 - Q1: 10
 - Q2: 2
@@ -24,7 +24,7 @@ Put each week's activities under new headers like the one shown above. Headers a
 - Q7: The _playerTransform variable is instantiated but never used.
 - Q8: Transform.Translate should be replaced with _playerTransform.
 
-# Activity 3
+## Activity 3
 
 - Cat:
     - Attributes:
