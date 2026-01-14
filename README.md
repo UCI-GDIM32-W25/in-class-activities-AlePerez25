@@ -30,6 +30,10 @@
 
 https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/edit?usp=sharing
 
+#Week2
+## Activity 1
+![IMG_20260113_180422083](https://github.com/user-attachments/assets/d97cc72b-1e2c-4796-8156-67267484ddfc)
+
 
 
 
