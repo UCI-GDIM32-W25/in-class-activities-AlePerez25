@@ -11,7 +11,7 @@
 - Take advantage of support when in need of assistance: peers, LAs, Office hours and discord.
 -  Ask questions.
 -  Learn how to use the inspector
--  Create map concepts.
+-  Create map concepts. 
 
 ### Activity 2
 
