@@ -43,6 +43,7 @@ https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/
 - Partner name: Bella Sloan
 
 ### Activity 3
+<<<<<<< HEAD
 rnfjner
 
 
@@ -51,6 +52,9 @@ rnfjner
 
 
 
+=======
+![IMG_20260120_191627832](https://github.com/user-attachments/assets/1b0e5515-0eb3-4eaa-9f14-ca51713aa626)
+>>>>>>> ce077c4a153c06d77e068d1603cbd3268962bc0b
 
 
 
