@@ -37,6 +37,14 @@ https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/
 ### Activity 2
 - In today's class, I worked on my mini-game 2, creating the game objects, configuring the inspector for each of them, and writing a small portion of the code to make my penguin jump. This worked, but the problem is that if I continuously press the spacebar, my penguin flies because it performs a double jump. I need to fix that. I also created the other scripts, but I haven't worked on them yet.
 
+# Week3
+### Activity 0-2
+
+Partner name: Bella Sloan
+
+### Activity 3
+
+
 
 
 
