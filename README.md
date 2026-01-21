@@ -40,7 +40,7 @@ https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/
 # Week3
 ### Activity 0-2
 
-Partner name: Bella Sloan
+- Partner name: Bella Sloan
 
 ### Activity 3
 
