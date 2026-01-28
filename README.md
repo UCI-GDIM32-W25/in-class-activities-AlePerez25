@@ -57,8 +57,9 @@ Bilal payton and Laura liu
 
 ### Activity 2
 ![264714dd-43c7-4360-ab4d-a3f6d6017d73~1](https://github.com/user-attachments/assets/b81f6a20-4ffb-486c-8b87-478d1e714be9)
+
 ### Activity 3
-[MG4 Commit](963784650733fe8a03f64666623c3edc1497a2bb)
+[[MG4 Commit](963784650733fe8a03f64666623c3edc1497a2bb)](https://github.com/AlePerez25/HW4/commit/963784650733fe8a03f64666623c3edc1497a2bb)
 
 
 
