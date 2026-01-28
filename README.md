@@ -43,18 +43,28 @@ https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/
 - Partner name: Bella Sloan
 
 ### Activity 3
-<<<<<<< HEAD
-rnfjner
 
-
-
-
-
-
-
-=======
 ![IMG_20260120_191627832](https://github.com/user-attachments/assets/1b0e5515-0eb3-4eaa-9f14-ca51713aa626)
->>>>>>> ce077c4a153c06d77e068d1603cbd3268962bc0b
+
+
+# Week4
+### Activity 0
+Bilal payton and Laura liu
+
+### Activity 1
+
+- Question 1: All the scripts of the locator objects disappear because the code indicates that they should be destroyed.
+
+### Activity 2
+![264714dd-43c7-4360-ab4d-a3f6d6017d73~1](https://github.com/user-attachments/assets/b81f6a20-4ffb-486c-8b87-478d1e714be9)
+### Activity 3
+[MG4 Commit](963784650733fe8a03f64666623c3edc1497a2bb)
+
+
+
+
+
+
 
 
 
