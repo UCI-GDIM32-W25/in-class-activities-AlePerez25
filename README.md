@@ -61,6 +61,30 @@ Bilal payton and Laura liu
 ### Activity 3
 [[MG4 Commit](963784650733fe8a03f64666623c3edc1497a2bb)](https://github.com/AlePerez25/HW4/commit/963784650733fe8a03f64666623c3edc1497a2bb)
 
+# Week5
+
+### Activity 1
+- Personally, I think that's a good structure for using interfaces and abstract classes, but it needed many changes and there were small errors. However, I would change the organization.
+
+### Activity 2
+- From what I understand of this concept, the Model in this case is the player, who, upon approaching the enemies (View), sends a message to the Controller (game data), which then sends an input and displays the message. (I'm not sure I've understood the concept correctly.)
+### Activity 3
+
+- Scenario 1: 
+
+- Scenario 2: 
+    - Inheritance: To have a parent class and share the similar behaviors of each weapon, for example. 
+    - ScriptablesObject: This is for enemies and the player themselves to see and establish, for example, how much health they have left.
+    - Singleton + events: This can be useful for the UI and for the weapon sounds to subscribe to events.
+    - Enums: For example, to show when other teams are eliminated, are winning, have low health, etc.
+
+
+- Scenario 3:
+
+
+### Activity 4
+
+
 
 
 
