@@ -71,6 +71,7 @@ Bilal payton and Laura liu
 ### Activity 3
 
 - Scenario 1: 
+    - Enums: To classify the different types of objects displayed on the screen.
 
 - Scenario 2: 
     - Inheritance: To have a parent class and share the similar behaviors of each weapon, for example. 
@@ -78,8 +79,8 @@ Bilal payton and Laura liu
     - Singleton + events: This can be useful for the UI and for the weapon sounds to subscribe to events.
     - Enums: For example, to show when other teams are eliminated, are winning, have low health, etc.
 
-
 - Scenario 3:
+    - State Mashings: For plants, to find out what things could affect plant growth.
 
 
 ### Activity 4
