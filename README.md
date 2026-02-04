@@ -61,6 +61,7 @@ Bilal payton and Laura liu
 ### Activity 3
 [[MG4 Commit](963784650733fe8a03f64666623c3edc1497a2bb)](https://github.com/AlePerez25/HW4/commit/963784650733fe8a03f64666623c3edc1497a2bb)
 
+
 # Week5
 
 ### Activity 1
@@ -85,7 +86,9 @@ Bilal payton and Laura liu
 
 ### Activity 4
 
+Attendance: Gianine Ariane, Kai Xaia Castillano and Alejandra Perez
 
+Proposal: https://docs.google.com/document/d/1zNEI6Q6prvof6MZBIPg397B4LSM3YyidLB--5WPzAQw/edit?usp=sharing 
 
 
 
