@@ -90,6 +90,63 @@ Attendance: Gianine Ariane, Kai Xaia Castillano and Alejandra Perez
 
 Proposal: https://docs.google.com/document/d/1zNEI6Q6prvof6MZBIPg397B4LSM3YyidLB--5WPzAQw/edit?usp=sharing 
 
+# Week6
+
+### Activity 1
+
+Demo notes: 
+
+- Profiler:
+
+    - Open in unity:
+    Window —> analysis —> profiler
+
+    - More important columns in hierarchy:
+    1) Overview 
+    2) Time ms 
+
+    - The fruit prefab collider is a Polygeon collider but is not a good idea if it has a lot of small pieces of it a circle collider is better because is most smoothed and is not going to look lacking.
+
+    - Keep the collider as simple as possible. 
+
+- Performance and optimization:
+ 
+    - Performance and optimization can help you to know how to run your game faster.
+    Learn about performance and optomization!!
+
+        - We can use Profiler in our final game if we have any problem with optimization 
+
+- Gizmos:
+
+    - Use circle collider gizmo.
+    Gizmos.DrawWireSphere
+
+    - With Gizmos you can track the player's right body  or other object movements.
+
+    - Gizmos is only visible to the programmer.
+
+    - For our final game we can use gizmos to track our NPC’s movement and player.
+
+- BreakPoints:
+
+    - Is a point in the code where the game is going to stop.
+
+    - Help to see which piece of code is not going right.
+
+    - Call Stack: Show the methods that you call
+
+        - We can use this to debug our game and see which code is not working.
+
+### Activity 2
+
+Attendance: Gianine Ariane, Kai Xaia Castillano and Alejandra Perez
+
+Final Proposal: https://docs.google.com/document/d/1zNEI6Q6prvof6MZBIPg397B4LSM3YyidLB--5WPzAQw/edit?usp=sharing 
+
+
+
+
+
 
 
 
