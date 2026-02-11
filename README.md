@@ -125,7 +125,7 @@ Demo notes:
 
     - Gizmos is only visible to the programmer.
 
-    - For our final game we can use gizmos to track our NPC’s movement and player.
+        - For our final game we can use gizmos to track our NPC’s movement and player.
 
 - BreakPoints:
 
