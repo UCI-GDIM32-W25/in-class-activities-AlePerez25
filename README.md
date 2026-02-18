@@ -185,9 +185,9 @@ Trello link: https://trello.com/b/Xaon9XV2/gdim-32-group-board
 
 ### Activity 5
 
+https://github.com/Winterfall4/GDIM32-Final/commit/13e6168e44bb52679e080d272ef520419e6bd966 
 
-
-
+We downloaded the animations for the main player. Now the player can move, and we also tested adding music.
 
 
 
