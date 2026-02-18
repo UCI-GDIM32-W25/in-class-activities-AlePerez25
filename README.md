@@ -147,6 +147,8 @@ Final Proposal: https://docs.google.com/document/d/1zNEI6Q6prvof6MZBIPg397B4LSM3
 
 ### Activity 1
 
+Demo Notes:
+
 - The red line on the duck represents the reaction distance if the chicken is within that range.
 
 - However, if an object is obstructing that line, a circle will be displayed to indicate this.
@@ -178,6 +180,7 @@ Attendance: Gianine Ariane, Kai Xaia Castillano and Alejandra Perez
 
 ### Activity 4
 
+Trello link: https://trello.com/b/Xaon9XV2/gdim-32-group-board 
 
 ### Activity 5
 
