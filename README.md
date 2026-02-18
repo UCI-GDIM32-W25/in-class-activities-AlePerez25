@@ -143,6 +143,49 @@ Attendance: Gianine Ariane, Kai Xaia Castillano and Alejandra Perez
 
 Final Proposal: https://docs.google.com/document/d/1zNEI6Q6prvof6MZBIPg397B4LSM3YyidLB--5WPzAQw/edit?usp=sharing 
 
+# Week7
+
+### Activity 1
+
+- The red line on the duck represents the reaction distance if the chicken is within that range.
+
+- However, if an object is obstructing that line, a circle will be displayed to indicate this.
+
+- The duck has two movement modes: first, when it's about to attack the player, it moves directly into them; and second, every few seconds, it chooses a direction and moves in that direction.
+
+- If the duck hits an obstacle, it leaves a yellow dot (Sphere Cast) and chooses another position to collide with.
+
+- Ray Cast and/or Sphere Cast are ideal for helping the character see obstacles.
+
+- The red line in the duck  is the visualisation of the raycast.
+
+- Gizmos method draw the line with:
+    - Gizmos.DrawRay
+
+- OuthitInfo: 
+
+    - The raycast method is going to fill in the information inside of the variable with the recast response.
+
+    - Returns a true or false.
+
+### Activity 2
+
+Attendance: Gianine Ariane, Kai Xaia Castillano and Alejandra Perez
+
+### Activity 3
+
+
+
+### Activity 4
+
+
+### Activity 5
+
+
+
+
+
+
 
 
 
