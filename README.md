@@ -176,6 +176,7 @@ Attendance: Gianine Ariane, Kai Xaia Castillano and Alejandra Perez
 
 ### Activity 3
 
+<img width="1061" height="1260" alt="Screenshot 2026-02-17 180931" src="https://github.com/user-attachments/assets/2c2ba66a-2d8c-414e-af49-cd3dcf3ce4f3" />
 
 
 ### Activity 4
