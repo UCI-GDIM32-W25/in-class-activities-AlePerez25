@@ -228,7 +228,8 @@ Trello link: https://trello.com/b/Xaon9XV2/gdim-32-group-board
 ### Activity 5:
 
 - I fix the rocks problem and I start the flower garden.
-Push link: https://github.com/Winterfall4/GDIM32-Final/commits/main/ 
+
+- Push link: https://github.com/Winterfall4/GDIM32-Final/commits/main/ 
 
 
 
