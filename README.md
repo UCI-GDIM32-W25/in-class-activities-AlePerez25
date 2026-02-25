@@ -208,6 +208,32 @@ We downloaded the animations for the main player. Now the player can move, and w
 
 ### Activity 2:
 
+Attendance: Gianine Ariane, Kai Xaia Castillano and Alejandra Perez
+
+### Activity 3:
+
+- Playtest notes:
+    - Lagging
+    - Having hard time with camera
+    - Sensitivity issues
+    - Make a setting where players could change sensitivity
+    - Rocks are launching people
+    - People like the environment and UI
+
+### Activity 4:
+
+Trello link: https://trello.com/b/Xaon9XV2/gdim-32-group-board 
+- I'm going to work on the flower garden and fix the rocks.
+
+### Activity 5:
+
+- I fix the rocks problem and I start the flower garden.
+Push link: https://github.com/Winterfall4/GDIM32-Final/commits/main/ 
+
+
+
+
+
 
 
 
