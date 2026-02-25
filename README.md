@@ -189,6 +189,26 @@ https://github.com/Winterfall4/GDIM32-Final/commit/13e6168e44bb52679e080d272ef52
 
 We downloaded the animations for the main player. Now the player can move, and we also tested adding music.
 
+# Week8
+
+### Activity 1:
+- Demo notes:
+
+    - Bloom post-processing effect to look more professional and glow 
+    - install package.
+    - object + new layer + post_process Volume:
+        - Bloom and color grading.
+    - “Color filter” changes the aspect of the game.
+    - look for filter in aunty asset store: 
+        - Works with the rendering pipeline.
+
+    - How to add one:
+    - Import the effect, add it to the post processing object.
+    - Change max intensity.
+
+### Activity 2:
+
+
 
 
 
