@@ -231,6 +231,40 @@ Trello link: https://trello.com/b/Xaon9XV2/gdim-32-group-board
 
 - Push link: https://github.com/Winterfall4/GDIM32-Final/commits/main/ 
 
+# Week9
+
+### Activity 1:
+
+- Scaling: An architectural solution will scale well if, when the program is handling Lots of data..
+    - its performant 
+    - it’s easy for users - whether they’re other programmers or content makers - to add and make data.
+
+- Be able to talk about how your solutions will be performant and easy for the user. 
+
+- How scaling patterns relate to the programming design pattern?:
+    - All of the design patterns we’ve learned will help you write code that scales well.
+    - State machine, MVC, Abstraction and polymorphism.
+
+- Create Scriptable objects to write dialogue this would make more easy to modify the dialogue.
+
+- Canvas with replay bottoms to replay NPC’s
+
+### Activity 2:
+
+Attendance: Kai Xaia Castillano and Alejandra Perez
+
+### Activity 3:
+
+### Activity 4:
+
+### Activity 5:
+
+
+
+
+
+
+
 
 
 
