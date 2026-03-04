@@ -255,9 +255,22 @@ Attendance: Kai Xaia Castillano and Alejandra Perez
 
 ### Activity 3:
 
+- Does the inventory systems feels natural? 
+- Drop items with "Q" is a good iteam?
+
+Playtesting notes:
+- inventory system works well
+- issues with camera still  move it to the left or right?
+- maybe click e for grabbing items instead of mouse click?
+
 ### Activity 4:
 
+- As a team, we feel we're halfway through the game, since most of what we need to work on right now is focused on NPC and main character dialogue. There are a few small details we need to work on outside of dialogue, but we consider them quick fixes.
+
 ### Activity 5:
+
+- Push link: https://github.com/Winterfall4/GDIM32-Final/commits/main/
+- I create another part of the environment and also import the dog asset to interact with it.
 
 
 
