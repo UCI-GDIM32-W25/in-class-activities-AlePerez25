@@ -293,7 +293,7 @@ Playtesting notes:
 
 ### Activity 4:
 
-- We asked LA for help creating a Navmesh to contain NPCs in a specific area and works!
+- We asked LA for help creating a Navmesh to contain NPCs in a specific area and it works!
 
 - https://github.com/UCI-GDIM32-W25/in-class-activities-AlePerez25/commits/main/
 
