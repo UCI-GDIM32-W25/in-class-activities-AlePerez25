@@ -272,6 +272,34 @@ Playtesting notes:
 - Push link: https://github.com/Winterfall4/GDIM32-Final/commits/main/
 - I create another part of the environment and also import the dog asset to interact with it.
 
+# Week10
+
+### Activity 1:
+
+- Attendance: Gianine Ariane, Kai Xaia Castillano and Alejandra Perez
+
+### Activity 2:
+
+- Playtesting notes:
+    - camera still wonky 
+    - Npc feature is cool
+    - Alt mouse wonky 
+    - Nice UI
+    - Inventory bugs (full ui pops when it isn’t full) (objects not being able to be picked up even though inventory has space)
+
+### Activity 3:
+
+- Personally, as a team, we feel we are about 75% of the way to finishing the game. We are a little scared because the things that remain to be done are the most important and we are nervous :V.
+
+### Activity 4:
+
+- We asked LA for help creating a Navmesh to contain NPCs in a specific area and works!
+
+- https://github.com/UCI-GDIM32-W25/in-class-activities-AlePerez25/commits/main/
+
+
+
+
 
 
 
