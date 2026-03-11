@@ -295,7 +295,7 @@ Playtesting notes:
 
 - We asked LA for help creating a Navmesh to contain NPCs in a specific area and it works!
 
-- https://github.com/UCI-GDIM32-W25/in-class-activities-AlePerez25/commits/main/
+- https://github.com/Winterfall4/GDIM32-Final/commits/main/
 
 
 
